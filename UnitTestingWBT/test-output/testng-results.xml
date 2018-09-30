@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[360000.0]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78" started-at="2018-09-30T15:39:49Z" finished-at="2018-09-30T15:39:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78" started-at="2018-09-30T15:39:49Z" finished-at="2018-09-30T15:39:49Z">
+      <class name="unitTests.Test1">
+        <test-method status="PASS" signature="testAnnualSal()[pri:0, instance:unitTests.Test1@39f31e]" name="testAnnualSal" duration-ms="16" started-at="2018-09-30T15:39:49Z" finished-at="2018-09-30T15:39:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[360000.0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testAnnualSal -->
+      </class> <!-- unitTests.Test1 -->
+      <class name="unitTests.Test2">
+        <test-method status="PASS" signature="testAppraisalMoreThanTen()[pri:0, instance:unitTests.Test2@15eef3d]" name="testAppraisalMoreThanTen" duration-ms="15" started-at="2018-09-30T15:39:49Z" finished-at="2018-09-30T15:39:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAppraisalMoreThanTen -->
+        <test-method status="PASS" signature="testAppraisalLessThanTen()[pri:0, instance:unitTests.Test2@15eef3d]" name="testAppraisalLessThanTen" duration-ms="0" started-at="2018-09-30T15:39:49Z" finished-at="2018-09-30T15:39:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAppraisalLessThanTen -->
+      </class> <!-- unitTests.Test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
